@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--
 **xGreedwindx/xGreedwindx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
